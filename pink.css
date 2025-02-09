@@ -1,0 +1,63 @@
+.sidebar {
+    background: #4a0033 !important;
+}
+
+.nav-bar {
+    background: #4a0033 !important;
+}
+
+.page__content-wrapper {
+    background: #33001a !important;
+}
+
+.sliding-panel__header {
+    background: #33001a !important;
+}
+
+.sliding-panel__body {
+    background: #33001a !important;
+}
+
+.argo-button--base {
+    color: #FFFFFF !important;
+    background: #ff4081 !important;
+}
+
+.argo-button--base:hover {
+    opacity: 0.8 !important;
+}
+
+.argo-button--base:focus {
+    border-color: #FFFFFF !important;
+}
+
+.argo-button--base-o {
+    color: #ff4081 !important;
+    box-shadow: inset 0 0 0 1px #ff4081 !important;
+}
+
+.argo-button--base-o:hover,
+.argo-button--base-o:focus {
+    color: #fff !important;
+    background-color: #ff4081 !important;
+}
+
+.top-bar__title {
+    color: #ff80ab !important;
+}
+
+a {
+    color: #ff80ab !important;
+}
+
+.settings-overview__redirect-panel__title {
+    color: #ff80ab !important;
+}
+
+.selected {
+    color: #ff80ab !important;
+}
+
+.tabs__indicator {
+    background: #ff80ab !important;
+}
