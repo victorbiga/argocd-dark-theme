@@ -1,26 +1,26 @@
 .sidebar {
-    background: #1a1a2e !important;
+    background: #4a0033 !important;
 }
 
 .nav-bar {
-    background: #1a1a2e !important;
+    background: #4a0033 !important;
 }
 
 .page__content-wrapper {
-    background: #121212 !important;
+    background: #33001a !important;
 }
 
 .sliding-panel__header {
-    background: #121212 !important;
+    background: #33001a !important;
 }
 
 .sliding-panel__body {
-    background: #121212 !important;
+    background: #33001a !important;
 }
 
 .argo-button--base {
     color: #FFFFFF !important;
-    background: #007bff !important;
+    background: #ff4081 !important;
 }
 
 .argo-button--base:hover {
@@ -32,32 +32,32 @@
 }
 
 .argo-button--base-o {
-    color: #007bff !important;
-    box-shadow: inset 0 0 0 1px #007bff !important;
+    color: #ff4081 !important;
+    box-shadow: inset 0 0 0 1px #ff4081 !important;
 }
 
 .argo-button--base-o:hover,
 .argo-button--base-o:focus {
     color: #fff !important;
-    background-color: #007bff !important;
+    background-color: #ff4081 !important;
 }
 
 .top-bar__title {
-    color: #42a5f5 !important;
+    color: #ff80ab !important;
 }
 
 a {
-    color: #42a5f5 !important;
+    color: #ff80ab !important;
 }
 
 .settings-overview__redirect-panel__title {
-    color: #42a5f5 !important;
+    color: #ff80ab !important;
 }
 
 .selected {
-    color: #42a5f5 !important;
+    color: #ff80ab !important;
 }
 
 .tabs__indicator {
-    background: #42a5f5 !important;
+    background: #ff80ab !important;
 }
