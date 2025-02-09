@@ -2,20 +2,20 @@
     background: #4a0033 !important;
 }
 
-.nav-bar:not(.theme-dark *) {
+.nav-bar {
     background: #4a0033 !important;
 }
 
 .page__content-wrapper:not(.theme-dark *) {
-    background: #33001a !important;
+    background: #ffd1dc !important;
 }
 
 .sliding-panel__header:not(.theme-dark *) {
-    background: #33001a !important;
+    background: #ffd1dc !important;
 }
 
 .sliding-panel__body:not(.theme-dark *) {
-    background: #33001a !important;
+    background: #ffd1dc !important;
 }
 
 .argo-button--base:not(.theme-dark *) {
